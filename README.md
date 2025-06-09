@@ -2,6 +2,7 @@
 
 A powerful, cross-platform clipboard history manager built with Rust and egui. Keep track of everything you copy and easily access your clipboard history with a clean, intuitive interface.
 
+![alt text](images/Screenshot From 2025-06-10 03-14-52.png)
 ## ✨ Features
 
 - **🔄 Automatic Clipboard Monitoring** - Automatically captures everything you copy
